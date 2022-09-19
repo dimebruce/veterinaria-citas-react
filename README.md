@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="400"></a></p>
+<p align="center"><a href="https://es.reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="400"></a></p>
 
 <p align="center">
     <p align="center"><a href="https://bit.ly/_dimebruce" target="_blank"><img src="https://github.com/dimebruce/veterinaria-citas-react/blob/main/public/img/veterinaria-dimebruce-react.netlify.app_.png" width="600"></a></p>  
