@@ -22,7 +22,7 @@
 - Opción de borrar al Paciente
 - Guarda los datos en el LocalStorage del dispositivo
 - Uso de Tailwind CSS para los estilos
-- Prácticas Mobile Fist
+- Prácticas Mobile First
 - Uso de los states de React
 - Componentes
 - Props
