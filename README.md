@@ -3,7 +3,7 @@
 <p align="center">
     <p align="center"><a href="https://bit.ly/_dimebruce" target="_blank"><img src="https://github.com/dimebruce/veterinaria-citas-react/blob/main/public/img/veterinaria-dimebruce-react.netlify.app_.png" width="600"></a></p>  
     <p align="center"><a href="https://bit.ly/_dimebruce" target="_blank"><img src="https://github.com/dimebruce/veterinaria-citas-react/blob/main/public/img/veterinaria-dimebruce-react.netlify.app_(iPhone%2012%20Pro).png" width="600"></a></p>
-    <p align="center"><a href="https://bit.ly/_dimebruce" target="_blank"><img src="https://github.com/dimebruce/veterinaria-citas-react/blob/main/public/img/pagespeed.web.dev_report_url%3Dhttps2F2F%26form_factor%3Ddesk.png" width="600"></a></p>
+    <p align="center"><a href="https://bit.ly/_dimebruce" target="_blank"><img src="https://github.com/dimebruce/veterinaria-citas-react/blob/main/public/img/pagespeed.web.dev_report_url%3Dhttps2F2F%26form_factor%3Dmobile.png" width="600"></a></p>
     <p align="center"><a href="https://bit.ly/_dimebruce" target="_blank"><img src="https://github.com/dimebruce/veterinaria-citas-react/blob/main/public/img/pagespeed.web.dev_report_url%3Dhttps2F2F%26form_factor%3Ddesk.png" width="600"></a></p>
 </p>
 
